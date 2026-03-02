@@ -130,10 +130,7 @@ export default function TechStack() {
           className="mb-24 flex flex-col md:flex-row md:items-end justify-between gap-8 border-b border-white/10 pb-10"
         >
           <div>
-            <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-md bg-white/5 border border-white/10 text-[10px] font-mono text-slate-400 uppercase tracking-widest mb-6">
-              <HiTerminal className="text-primary animate-pulse" />
-              <span>./load_superpowers.sh</span>
-            </div>
+            
             <h2 className="text-5xl md:text-6xl lg:text-7xl font-black text-white tracking-tighter">
               <span className="text-gradient">Tech Stack</span>
             </h2>
